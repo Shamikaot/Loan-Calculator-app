@@ -1,1 +1,3 @@
 # Loan-Calculator-app
+The Loan Calculator In Python is a simple project developed using Python. The project is for the user convenient, to help them find out about the monthly payments on a specific loan. This project is for financial calculating to figure out the loan’s regular monthly payment, with total payment and the total interest. And the user has to pay those payments over the duration of the loan.
+The project file contains a python script ( Loan_Calculator.py). This is a GUI-base project which is very easy to understand and use. Also, this project makes a convenient way for the user to gain an idea of how to perform loan calculations
